@@ -2,7 +2,7 @@
 
 ## Description
 
-This project consist of a script that modifies the data available at the
+This project consists of a script that modifies the data available at the
 [Human Activity Recognition Using Smartphones Data Set][dataset] repository,
 as provided by the instructors. Additionally, it includes the tidy dataset
 obtained after processing the original files.
